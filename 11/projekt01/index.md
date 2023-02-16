@@ -13,3 +13,4 @@
 |Kondenzátor|C5|C6|470nF|2|
 |Tranzisztor|T1|BC639|1|
 |Dióda|D1|1n4148|1|
+
