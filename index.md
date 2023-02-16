@@ -3,7 +3,9 @@
 ## 11. évfolyamon készitett projektek:
 
 Projekt 1 [Vezeték nélküli LED](https//pohttps://tomolyamilan.github.io/portfolio/11/projekt01/index.md) 
+
 Projekt 1 [Mini Tesla tekercs](https:/) 
+
 Projekt 1 [Mini Tesla tekercs](https:/) 
  
 ## 12. évfolyamon készitett projektek:
