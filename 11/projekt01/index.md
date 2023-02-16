@@ -2,7 +2,7 @@
 
 [Vissza](https://tomolyamilan.github.io/portfolio/)
 
-#Az általam választott alkatrészek, 9V tápfeszültségre megtervezve
+## Az általam választott alkatrészek, 9V tápfeszültségre megtervezve
 
 |Név|Jelölés|Érték|db|
 |----|----|----|----|
