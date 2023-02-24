@@ -4,5 +4,5 @@
 ## Hídkapcsolás
 
 ### Kapcsolási rajz
-![Rajz](TomolyaMilan_PR-1.png "Megépített áramkör)
+![Rajz](TomolyaMilan_PR-1.png "Megépített áramkör")
 
