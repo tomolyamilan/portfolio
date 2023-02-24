@@ -2,7 +2,7 @@
 
 ## 11. évfolyamon készitett projektek:
 
-Projekt 1 [Vezeték nélküli LED](https://tomolyamilan.github.io/portfolio/11/projekt01/index.md)
+Projekt 1 [Vezeték nélküli LED](/11/projekt01/project01.md)
 
 Projekt 1 [Hídkapcsolás](https://tomolyamilan.github.io/portfolio/11/projekt02/index.md) 
 
