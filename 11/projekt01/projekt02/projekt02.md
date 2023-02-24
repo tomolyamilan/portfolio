@@ -2,6 +2,11 @@
 
 # Hídkapcsolás
 
+#### A project ismertetése:
+#### Kiegyenlítetlen hídkapcsolás kimeneti feszültségének meghatározása
+#### a) szimulációs méréssel(Tina)
+#### b) valós méréssel(laborban)
+#### c) számítással(delta/csillag átalakítással)
 ### Kapcsolási rajz
 ![Rajz](TomolyaMilan_PR-1.png "Megépített áramkör")
 
