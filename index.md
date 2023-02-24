@@ -4,7 +4,7 @@
 
 Projekt 1 [Vezeték nélküli LED](/11/projekt01/projekt01.md)
 
-Projekt 1 [Hídkapcsolás](/11/projekt01/projekt02/projekt02.md) 
+Projekt 2 [Hídkapcsolás](/11/projekt01/projekt02/projekt02.md) 
 
 Projekt 1 [Mini Tesla tekercs](https:/) 
  
