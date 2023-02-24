@@ -4,7 +4,7 @@
 
 Projekt 1 [Vezeték nélküli LED](https://tomolyamilan.github.io/portfolio/11/projekt01/index.md)
 
-Projekt 1 [Hídkapcsolás](https:/) 
+Projekt 1 [Hídkapcsolás](https://tomolyamilan.github.io/portfolio/11/projekt02/index.md) 
 
 Projekt 1 [Mini Tesla tekercs](https:/) 
  
