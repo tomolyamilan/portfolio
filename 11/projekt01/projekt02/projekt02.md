@@ -14,4 +14,5 @@
 |Ellenállás|R5|5k|1|
 |Áramforrás|U|10V|1|
 
+### Szimulációs mérés eredménye
 ![Rajz](TomolyaMilan_PR-1-1.png "A szimulációs mérés eredménye")
