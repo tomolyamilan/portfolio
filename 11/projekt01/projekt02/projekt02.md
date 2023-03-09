@@ -19,5 +19,12 @@
 |Ellenállás|R5|5k|1|
 |Áramforrás|U|10V|1|
 
+### Az áramkör számítása
+![Számítás](hidszamitas.png "Az áramkör kiszámítás")
+
 ### Szimulációs mérés eredménye
 ![Rajz](TomolyaMilan_PR-1-1.png "A szimulációs mérés eredménye")
+
+## Önreflexíó
+### A projekt egészen jó segítséget nyújtott a tananyag megértésében.
+### Minen könnyen ment és nem volt probléma.
